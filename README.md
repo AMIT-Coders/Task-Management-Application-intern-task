@@ -46,41 +46,36 @@ This project is a Task Management Application developed to demonstrate proficien
 ### Steps
 
 1. **Clone the repository:**
-
-   \`\`\`bash
+```
    git clone https://github.com/your-username/task-management-app.git
    cd task-management-app
-   \`\`\`
+```
 
 2. **Install dependencies:**
 
-   \`\`\`bash
-   npm install
-   \`\`\`
+```
+  npm install
+```
 
 3. **Set up MongoDB:**
    - Ensure MongoDB is running on your local machine.
    - Create a `.env` file in the root directory and add the following:
-
-     \`\`\`env
-     MONGODB_URI=mongodb://localhost:27017/taskmanagement
-     \`\`\`
+```
+    MONGODB_URI=mongodb://localhost:27017/taskmanagement
+```
 
 4. **Run the development server:**
-
-   \`\`\`bash
-   npm run dev
-   \`\`\`
+```
+npm run dev
+```
 
 5. **Open your browser and visit:**
-
-   \`\`\`
-   http://localhost:3000
-   \`\`\`
+```
+http://localhost:3000
+```
 
 ## Project Structure
-
-\`\`\`
+```
 task-management-app/
 │
 ├── public/
@@ -108,7 +103,7 @@ task-management-app/
 ├── package.json
 ├── README.md
 └── server.js (Node.js server setup)
-\`\`\`
+```
 
 ## API Endpoints
 
