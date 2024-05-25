@@ -164,7 +164,7 @@ task-management-app/
 
 ## Contact
 
-For any questions or clarifications, please contact [Your Name] at [your-email@example.com].
+For any questions or clarifications, please contact Mohamed at [mohamed.ibrahim@amitcoders.org].
 
 ---
 
