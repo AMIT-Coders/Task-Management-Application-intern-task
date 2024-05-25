@@ -1,4 +1,4 @@
-
+![AMIT-Coders](https://raw.githubusercontent.com/AMIT-Coders/res/main/Colored%20logo.png)
 # Task Management Application
 
 ## Project Description
