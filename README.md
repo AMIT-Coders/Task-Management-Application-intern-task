@@ -160,11 +160,11 @@ task-management-app/
 
 ## Timeline
 
-- You have **2 weeks** to complete this project.
+- You have **8 days** to complete this project.
 
 ## Contact
 
-For any questions or clarifications, please contact Mohamed at [mohamed.ibrahim@amitcoders.org].
+For any questions or clarifications, please contact Mohamed at mohamed.ibrahim@amitcoders.org.
 
 ---
 
