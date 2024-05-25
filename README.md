@@ -164,7 +164,7 @@ task-management-app/
 
 ## Contact
 
-For any questions or clarifications, please contact Mohamed at mohamed.ibrahim@amitcoders.org.
+For any questions or clarifications, please contact Mohamed at mohamed.ibrahim@amitcoders.org
 
 ---
 
