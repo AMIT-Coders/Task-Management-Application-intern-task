@@ -155,7 +155,7 @@ task-management-app/
 ## Submission
 
 - **GitHub Repository:**
-  - Submit your project via a GitHub repository.
+  - Submit your project via this GitHub repository.
   - Include a `README.md` file with setup instructions and any other relevant documentation.
 
 ## Timeline
